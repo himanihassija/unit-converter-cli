@@ -11,6 +11,11 @@ Unit Converter CLI
 Overview
 This is a Python command-line application that performs weight and temperature conversions. The program uses a structured menu-driven system and modular functions to keep the logic clean and maintainable. It also includes input validation to handle incorrect user entries gracefully.
 
+Demo
+https://github.com/himanihassija/unit-converter-cli/blob/main/converter%20ui.JPG
+https://github.com/himanihassija/unit-converter-cli/blob/main/temperature%20converter.JPG
+https://github.com/himanihassija/unit-converter-cli/blob/main/weight%20converter%20usage.JPG
+
 Features
 - Weight conversions:
   - Kilograms to Pounds
